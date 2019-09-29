@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Isaac Peters"
-resume_title:                   "Student, Software Engineer"
+resume_title:                   "Student in Commputer Science"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "petersis@oregonstate.edu"
@@ -23,7 +23,7 @@ resume_contact_address:         "2900 SW Western Blvd, Corvallis, OR"
 resume_header_contact_info:     "2900 SW Western Blvd, Corvallis, OR • 503-576-9432 • petersis@oregonstate.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Computer science student excited for opportunities to learn and grow. Professional programming experience at Intel in a competetive environment, with a record of great academic performance</p><p>Currently seeking a senior capstone project, with a preference towards competitive and multi-disciplinary teams. Interested in projects involving embedded programming or robotics.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,9 +38,9 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
