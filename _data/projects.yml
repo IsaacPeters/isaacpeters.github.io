@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# bumpbot / embedded
+- project: BumpBot
+  role: Student Project, Independent
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: Created a program for a simple robot to respond to whisker input so itcould move forward and respond automatically to obstacles.
+
+# web based battleships
+- project: Battleships
+  role: Student Project, Group
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: Created web-based battleship game over five two-week sprints, with a focus on team communication and agile development.
+
+# bumpbot / embedded
+- project: Digital Logic Design
+  role: Student Project, Independent
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: Programmed various functions onto an FPGA, including decod-ing  an  input  from  a  VCR  remote  and  N64  controller  in  order  to  control  a  nintendoNES console.
