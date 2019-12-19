@@ -1,6 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# iceberg explorer
+- project: Iceberg Explorer
+  role: Senior Capstone Project
+  duration: Collaborate
+  # url: "#"
+  description: Working with oceanography researchers to create an underwater vessel to explore the dangerous border between glaciers and the ocean. 
+  Personal focus on creating the system of controls and transmission that will allow the ROV to maneuvre as it seeks to attach itself to the underwater surface of a glacier, 
+  as well as a lidar system to scan the surface of the glacier to create high-resolution changes in the surface structure over time.
+
 # bumpbot / embedded
 - project: BumpBot
   role: Student Project
