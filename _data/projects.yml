@@ -9,11 +9,11 @@
   description: Working with oceanography researchers to create an underwater vessel to explore the dangerous border between glaciers and the ocean. Personal focus on creating the system of controls and transmission that will allow the ROV to maneuvre as it seeks to attach itself to the underwater surface of a glacier, as well as a lidar system to scan the surface of the glacier to create high-resolution changes in the surface structure over time. 
 
 # bumpbot / embedded
-- project: BumpBot
+- project: Custom xv6 Operating System
   role: Student Project
   duration: Independent
   # url: "#"
-  description: Created a program for a simple robot to respond to whisker input so it could move forward and respond automatically to obstacles.
+  description: Customized the xv6 operating system, a unix-like kernel designed for instructional purposes, to add various features. New features included adding a lottery system for scheduling processes, and implementing a kernel thread system similar to kthreads in unix.
 
 # web based battleships
 - project: Battleships
